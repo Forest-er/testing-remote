@@ -1,3 +1,5 @@
 <?php
-nama = "agna";
+$nama = "agna";
+
+echo "nama saya adalah $nama"
 ?>
